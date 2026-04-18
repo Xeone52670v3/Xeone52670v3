@@ -51,13 +51,6 @@ roadmap = [
 
 ---
 
-### `~/contacts`
-
-```
-Telegram  →  @xeon_e5_2678_v3
-GitHub    →  github.com/Xeone52670v3
-```
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
